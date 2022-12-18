@@ -1,0 +1,16 @@
+.product{
+    height: auto; 
+    width: 100%;
+    box-shadow:0px 0px 4px 3px rgba(11, 64, 107, 0.1);
+    padding: 14px;
+    text-align:center;
+    border-bottom:22px solid maroon;
+    border-radius:10px;
+}
+.side-items:hover{
+background-color: teal;
+color: white;
+}
+.side-list::-webkit-scrollbar {
+    display: none;
+  }
